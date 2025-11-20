@@ -3,7 +3,7 @@
 Trained with Ultralytics YOLO under [GNU AGPL v3](LICENSE).
 
 ## Model
-- File: `runs/classify/train9/weights/best.pt`
+- File: `/content/runs/classify/train/weights/best.pt`
 - Trained with:  
   ```bash
   yolo classify train data=/content/data model=yolo11n-cls.pt epochs=10 imgsz=640
